@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    background-color: #efefef;
+    font-family: sans-serif;
+}
+#sendBtn {
+    width: 50px;
+    height: 96px;
+    float: right;
+}
